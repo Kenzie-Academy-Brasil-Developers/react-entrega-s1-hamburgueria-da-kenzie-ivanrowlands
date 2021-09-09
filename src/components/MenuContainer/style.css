@@ -1,0 +1,12 @@
+.menuContainer {
+  border: 1px solid;
+  border-radius: 30px;
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  backdrop-filter: brightness(0.3);
+  justify-content: space-around;
+  margin-top: 0;
+  padding: 16px;
+  min-width: 181.44px;
+}
